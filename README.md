@@ -1,0 +1,1 @@
+This is a simple Drumkit based on javascript.  Press the corresponding keys and listen to the various sounds that it creates.
